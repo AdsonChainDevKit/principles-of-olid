@@ -1,1 +1,1 @@
-# principles-of-olid
+# principles-of-solid
